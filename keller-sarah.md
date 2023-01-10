@@ -1,4 +1,4 @@
-# Hi, I'm Sarah 🤓 ! And this is a, super, short profile on me.
+# Hi, I'm Sarah 🤓 ! And this is a super short profile on me.
 
 Being German/Egyptian, my first name is pronounced the Arabic way: [Click here for a sample](assets/keller-sarah.m4a)
 
