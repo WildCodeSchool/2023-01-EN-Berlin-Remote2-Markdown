@@ -25,3 +25,11 @@ This is Elli on holiday!
 
 Hit me up for travel recommendations :-)
 
+```mermaid
+pie title What I spend my money on:
+    "Food" : 500
+    "Rent" : 600
+    "Online Shopping" : 50
+    "My Dog" : 300
+ ```
+
