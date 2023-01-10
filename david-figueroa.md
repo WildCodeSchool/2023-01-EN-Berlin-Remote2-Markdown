@@ -47,6 +47,23 @@ Like a very wise man once said:
 
 ---
 
+## This is how i want my future to look like:  
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MY FUTURE'}} }%%
+      gitGraph
+        commit id:"Wide Code School"
+        commit id:"Find A Fun Job"
+        commit id:"Start My Own Company"
+        commit id:"Get Filthy Rich"
+        commit id:"Buy A House"
+        commit id:"Get 8 Dogs"
+        commit id:"Get 2 Horses"
+        commit id:"Get 3 Goats"
+        commit id:"Get A Housepig"
+```
+---
+
 Thank you for reading. Before you leave please let me know your opinion:  
 
 This was:  
