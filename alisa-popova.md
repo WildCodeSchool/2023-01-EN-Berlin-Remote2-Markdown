@@ -17,12 +17,13 @@ journey
     section Morning
       Breakfast: 3: Me, Kids
       Go to Kita: 4: Kids
-      Learn/Read: 5: Me
+      Study/Read: 5: Me
     section Afternoon
       Do sports/housework: 4: Me
       Go to German Classes: 3:Me, Kids
      section Evening
-      Dinner: 5: Me, Kids
+      Dinner: 4: Me, Kids
       Have fun: 5: Me, Kids
-      Go to bed: 2: Kids    
+      Go to bed: 2: Kids
+      Relax: 5: Me
 ```
