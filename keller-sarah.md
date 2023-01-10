@@ -23,7 +23,7 @@ Being German/Egyptian, my first name is pronounced the Arabic way: [Click here f
 ```mermaid
 graph LR;
     A((2023))--Jan to June-->B{WCS};
-    A((2023))--WIP 'skills, jobs, self, friends & family'-->J((2024));
+    A((2023))--WIP 'skills, jobs, self, family & friends'-->J((2024));
     A((2023))-.->C([CS50]);
     A((2023))-.October or November?.->D([Arabic]);
     B{WCS}-.June to Sept.->C([CS50]);
