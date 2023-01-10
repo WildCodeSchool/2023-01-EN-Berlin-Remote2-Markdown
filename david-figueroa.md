@@ -24,6 +24,16 @@ My favorite food is:
 3. Ceviche
 
 ---
+Sometimes i do a ketogenic diet. The goal is to eat 5% or less carbohydrates.  
+
+
+```mermaid
+pie title Keto Macro Percentages
+    "Protein" : 70
+    "Fat" : 25
+    "Carbs" : 5
+```
+---
 
 Like a very wise man once said:  
 > Lets get schwifty
