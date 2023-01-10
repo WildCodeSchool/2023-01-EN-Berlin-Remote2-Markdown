@@ -41,3 +41,22 @@ Sometimes in Markdown, because it is used by programmers, we need to mention cod
 For example, I might want to refer to something we type in the shell, for example the `nvm` command.
 
 This has been really cool. Now let me try to link to something: [Click here to access the WCS organization on GitHub](https://github.com/WildCodeSchool)
+
+## Important keys on the keyboard
+
+- <kbd>/</kbd>: Slash or a forward slash
+- <kbd>&bsol;</kbd>: Backward slash
+- <kbd>{</kbd> <kbd>}</kbd>: Curly brackets
+- <kbd>[</kbd> <kbd>]</kbd>: Square brackets
+- <kbd>&lt;</kbd> <kbd>&gt;</kbd>: Angle brackets
+- <kbd>&</kbd>: Ambersand
+- <kbd>:</kbd>: Colon
+- <kbd>;</kbd>: Semicolon
+- <kbd>|</kbd>: Pipe character
+- <kbd>'</kbd>: Single quote
+- <kbd>"</kbd>: Double quote
+- <kbd>`</kbd>: Back tick
+- <kbd>-</kbd>: Minus
+- <kbd>_</kbd>: Underscore
+
+\# This is not a title anymore
