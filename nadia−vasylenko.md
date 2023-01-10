@@ -1,5 +1,4 @@
-
-My name is Nadia Vasylenko.   
+My name is Nadia Vasylenko.  
 I was born in _Ukraine_.  
 I live in **Germany** for almost a year. 
 
@@ -35,3 +34,13 @@ _And avocado toast recipeis a secret_
   One more thing about me: a cup of coffee can make me feel happier 😸:  
   Especially with this view:  
   ![For coffee lovers](https://images.squarespace-cdn.com/content/v1/5dd5b5e9f226644911c4d733/1634165046140-YKFLRWPZRAAOSHMDKGRE/coffee-culture-in-italy.jpg?format=1000w)
+
+``` mermaid 
+pie title My favorite movie genres
+         "Drama" : 20
+         "Comedy" : 40
+         "Scientific" : 20
+         "Animation" : 40
+         "Thriller" : 15
+         "Horrors" : 15  
+ ```
