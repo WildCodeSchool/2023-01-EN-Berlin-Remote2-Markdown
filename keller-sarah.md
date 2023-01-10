@@ -13,9 +13,10 @@
 4. Alarm clocks
 
 If I had to choose an animated character to identify with, I'd choose Flo the Alpacamundi from the Disney show 'Elena of Avalor'.
+![Flo the Alpacamundi](assets/Flo.jpeg)
 
 
-Being German/Egyptian, my first name is pronounced the Arabic way: Click here for a sample.
+Being German/Egyptian, my first name is pronounced the Arabic way: [Click here for a sample](assets/keller-sarah.m4a)
 
 
 
