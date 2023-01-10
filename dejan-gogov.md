@@ -14,6 +14,38 @@
 - [x] Current Learning:
 
      * *Web Development*[^2]
+
+
+
+
+
+### Discover are you hungry
+ 
+```mermaid
+
+
+
+flowchart TB
+    A([Are you hungry ?])--- B([NO]) --->C([YES you are!])
+    D([YES])
+        F([Do you want to eat healthy])--- G([Hell NO!])
+    H([YES])
+     J([no you don't])--- I([oh right])
+     M(((Cake)))
+     
+    A---D--->F---H--->J
+     
+     C---->M
+     G---->M
+     I---->M
+    
+    
+
+
+
+
+
+```
      
 
 
