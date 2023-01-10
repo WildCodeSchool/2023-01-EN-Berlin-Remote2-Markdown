@@ -19,3 +19,16 @@ I also have a cat whose name is Matilda. Here you can see the picture of her.
 ![image](/assets/yevhenii-airapetian-cat.jpg)
 
 
+```mermaid pie
+"Guavas" : 228
+"Kivifruit" : 93
+"Bell peppers" : 128
+"Strawberries" : 59
+"Oranges" : 53
+"Papaya" : 61
+"Broccoli" : 89
+"Tomato" : 23
+"Snow peas" : 60
+"Kale" : 18
+```
+
