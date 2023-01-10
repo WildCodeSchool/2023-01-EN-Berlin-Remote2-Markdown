@@ -10,3 +10,19 @@ Here is how my name sounds in my mother tounge:[Click here to download the recor
 - Worked as **Electrical Engineer** before going to IT 
 - Graduated form Polytechnical Institute, Energy Management speciality
 
+
+```mermaid
+journey
+    title My typical day(before the course)
+    section Morning
+      Breakfast: 3: Me, Kids
+      Go to Kita: 4: Kids
+      Learn/Read: 5: Me
+    section Afternoon
+      Do sports/housework: 4: Me
+      Go to German Classes: 3:Me, Kids
+     section Evening
+      Dinner: 5: Me, Kids
+      Have fun: 5: Me, Kids
+      Go to bed: 2: Kids    
+```
