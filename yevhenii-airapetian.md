@@ -19,7 +19,9 @@ I also have a cat whose name is Matilda. Here you can see the picture of her.
 ![image](/assets/yevhenii-airapetian-cat.jpg)
 
 
-```mermaid pie
+```mermaid 
+  pie
+  title What foods contain the most vitamin C per 100g in milligrams
 "Guavas" : 228
 "Kivifruit" : 93
 "Bell peppers" : 128
