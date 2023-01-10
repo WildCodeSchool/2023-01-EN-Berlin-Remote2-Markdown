@@ -1,5 +1,8 @@
 # Welcome to my profile!
 
+I am 32 years old, identify as a woman and am originally from a small town near Hamburg.  
+I grew up on a horse farm in the beautyful green countryside of Elmenhorst.
+
 This is how I pronounce my name: [Click here to download the recording](https://github.com/WildCodeSchool/2023-01-EN-Berlin-Remote2-Markdown/blob/main/assets/lisa-roehrig.m4a)
 
 ## What I like doing in my free time
@@ -18,3 +21,7 @@ This is Elli on holiday!
 5. Vietnam
 - Phong Nha
 - Hanoi
+
+
+Hit me up for travel recommendations :-)
+
