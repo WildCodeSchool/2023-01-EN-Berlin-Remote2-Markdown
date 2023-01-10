@@ -10,6 +10,7 @@ My name is Yevhenii. I am 29. I was born in Ukraine.
 - In **_2014_** I graduated from a university as a teacher of English and literature.
 - In the *following years* I finished several courses gaining knowledge in traditional massage and the CMS Joomla.
 - Recently, I have started the prepation to pass my fitness trainer and sports nutritionist certification exam.
+- Currently, I study at a coding school. [Here](https://www.wildcodeschool.com/de-DE "Wold Code School Name") you can visit their website.
 
 ## My hobbies and pets
 
