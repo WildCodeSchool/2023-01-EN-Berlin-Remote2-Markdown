@@ -60,3 +60,29 @@ This has been really cool. Now let me try to link to something: [Click here to a
 - <kbd>_</kbd>: Underscore
 
 \# This is not a title anymore
+
+## Embedding Diagrams
+
+Diagrams are a great example of embedding one logical language inside of another.
+
+A single code word or phrase can be specified using backticks like `this`, a single
+backtick surrounds the word or the phrase. An example of a phrase is `this is a code
+phrase`.
+
+```javascript
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+GitHub allows you to use a codeblock of the type `mermaid` to actually embed real diagrams
+in your GitHub Markdown file. This is done using an embedded, and a completely distinct 
+logical language only for diagramming puposes. This language is called mermaid and has its
+own documentation on the internet.
+
+```mermaid
+pie title Do people believe in science
+    "Those who do" : 10
+    "Those who do not" : 10
+    "Those who do not care" : 10
+```
