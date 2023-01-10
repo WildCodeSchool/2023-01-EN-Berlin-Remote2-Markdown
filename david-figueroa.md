@@ -52,7 +52,7 @@ Like a very wise man once said:
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MY FUTURE'}} }%%
       gitGraph
-        commit id:"Wide Code School"
+        commit id:"Wild Code School"
         commit id:"Find A Fun Job"
         commit id:"Start My Own Company"
         commit id:"Get Filthy Rich"
