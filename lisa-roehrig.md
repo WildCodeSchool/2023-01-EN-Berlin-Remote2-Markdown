@@ -22,30 +22,21 @@ This is Elli on holiday!
 - Phong Nha
 - Hanoi
 
-
-Hit me up for travel recommendations :-)
-
+### Our wedding roadtrip
 
 ```mermaid
 graph LR
-    A((Berlin)) -- 23 hrs flight --> B(Hanoi)
-    B -- after 4 weeks --> C(Bangkok)
-    C -- after 7 Days--> D{Krabi}
+    A((Berlin)) -. 23 hrs flight .-> B(Hanoi)
+    B -. after 4 weeks .-> C(Bangkok)
+    C -- after 7 Days --> D{Krabi}
     D -- by scooter --> E(Koh Lanta)
     E --> D
-    D -- 20 hrs flight --> F(Australia)
-    F -- 6 hrs flight --> G(New Zealand)
-    G -- back to the warm --> D
-    D --> A
+    D -. 20 hrs flight .-> F(Australia)
+    F -. 6 hrs flight .-> G(New Zealand)
+    G -. back to the warm .-> D
+    D-.->A
 
 ```
-
-```mermaid
-pie title What I spend my money on:
-    "Food" : 500
-    "Rent" : 600
-    "Online Shopping" : 50
-    "My Dog" : 300
-    "Traveling" : 600
- ```
  
+ 
+Hit me up for travel recommendations :-)
