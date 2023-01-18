@@ -12,6 +12,8 @@ Here is how my name sounds in my mother tounge:[Click here to download the recor
 - Worked as **Electrical Engineer** before going to IT 
 - Graduated form Polytechnical Institute, Energy Management speciality
 
+Italicized text is the <em>cat's meow</em>.
+
 
 ```mermaid
 journey
