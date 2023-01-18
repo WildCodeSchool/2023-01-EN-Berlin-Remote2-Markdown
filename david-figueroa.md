@@ -1,6 +1,6 @@
-## David
+# David
 
-# Hello & Welcome   
+## Hello & Welcome   
 
 My name is *David Figueroa*.  
 
