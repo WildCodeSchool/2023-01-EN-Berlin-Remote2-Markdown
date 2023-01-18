@@ -1,6 +1,6 @@
 # Yevheni
 
-This is a bit about me
+
 
 ## Country of origin, name, age
 
