@@ -1,0 +1,269 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --color-primary: #f3f3f3;
+  --color-secondary: #e00707;
+  --color-hover: rgb(233, 201, 201);
+  --color-secoundary-darker: #a70404;
+  --ff-primary: 'Source Sans Pro';
+  --spacing: 0.25rem;
+  --transition: all 0.4s ease-in;
+}
+
+body {
+  font-family: var(--ff-primary);
+  font-weight: 300;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Header Section ======================= */
+header {
+  height: 100vh;
+  width: 100%;
+  background-image: url(image/beach\ cover.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  padding: 2rem;
+  gap: 40px;
+  line-height: 20px;
+}
+
+.navbar a {
+  color: var(--color-primary);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: var(--spacing);
+  transition: all 0.4s ease;
+}
+
+.navbar a:hover {
+  color: var(--color-hover);
+}
+
+.hero-text {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  color: var(--color-primary);
+  text-align: center;
+  letter-spacing: var(--spacing);
+}
+
+.hero-header h1 {
+  font-size: 2.7rem;
+}
+.hero-header h3 {
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+.hero__button {
+  font-size: 1.2rem;
+  display: flex;
+  gap: 50px;
+}
+.hero__button a {
+  color: var(--color-primary);
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.hero__button a:hover {
+  color: var(--color-hover);
+}
+
+.btn {
+  background-color: var(--color-secondary);
+  border-radius: 30px;
+  transition: var(--transition);
+  text-align: center;
+}
+
+.ourMenu:hover {
+  background-color: var(--color-secoundary-darker);
+}
+
+.hero__soc--icon a {
+  font-size: 1.4rem;
+  color: var(--color-primary);
+  transition: var(--transition);
+  padding: 1rem;
+}
+
+.hero__soc--icon a:hover {
+  color: var(--color-hover);
+}
+
+/* Section Ice-Cream ===========================*/
+.ice__cream--top {
+  margin: 2rem;
+  text-align: center;
+}
+
+.ice__cream--top h2 {
+  font-size: 2rem;
+  letter-spacing: var(--spacing);
+  font-weight: 300;
+  padding: 1rem;
+}
+
+.ice__cream--top h4 {
+  font-size: 1.5rem;
+  letter-spacing: var(--spacing);
+  font-weight: 300;
+}
+
+.ice__cream--top p {
+  padding: 1.4rem;
+}
+
+.iceCreamBtn {
+  padding: 0.6rem 1rem;
+  color: var(--color-primary);
+  letter-spacing: var(--spacing);
+}
+
+.iceCreamBtn:hover {
+  background-color: var(--color-secoundary-darker);
+}
+
+/* Ice-Crema Cards =============== */
+
+.ice_cream--cards {
+  margin-top: 3rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.ice_cream--cards img {
+  width: 60%;
+  border-radius: 30px;
+  transition: var(--transition);
+}
+
+.ice_cream--cards img:hover {
+  transform: scale(0.9);
+}
+
+.card h4 {
+  font-weight: 300;
+}
+
+.ice_cream--footer {
+  text-align: center;
+  padding: 1rem;
+}
+.ice_cream--footer a {
+  transition: var(--transition);
+}
+.ice_cream--footer a::after {
+  content: ' !';
+  color: var(--color-secondary);
+  font-size: 1.2rem;
+}
+.ice_cream--footer a:hover {
+  color: var(--color-hover);
+}
+
+/* Section Coctails ========================= */
+.coctails__header--img {
+  padding: 2rem;
+}
+.coctails__header--img img {
+  margin: auto;
+  width: 50%;
+  display: block;
+  border-radius: 30px;
+}
+
+.coctails__header {
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 300;
+  padding: 1rem;
+}
+
+.coctails__header h2 {
+  font-weight: 200;
+}
+.coctails__cards {
+  display: flex;
+  text-align: center;
+  padding: 1rem;
+}
+.coctails__cards img {
+  margin: auto;
+  width: 80%;
+  display: block;
+  border-radius: 30px;
+  padding-bottom: 5px;
+  transition: var(--transition);
+}
+
+.coctails__cards img:hover {
+  transform: scale(0.98);
+}
+
+.card-coctail h4 {
+  padding: 10px;
+  font-weight: 300;
+}
+
+footer {
+  background-color: var(--color-primary);
+  padding: 2rem;
+  text-align: center;
+}
+
+/* General */
+.locationAlert {
+  display: none;
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 37%;
+  background-color: var(--color-primary);
+  padding: 6rem;
+  z-index: 2;
+  border-radius: 30px;
+  font-size: large;
+}
+
+.locationAlert h6 {
+  padding: 10px;
+  color: var(--color-secoundary-darker);
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  z-index: 1;
+  transition: all 0.5s;
+}
