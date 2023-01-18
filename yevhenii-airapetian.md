@@ -34,5 +34,5 @@ I also have a cat whose name is Matilda. Here you can see the picture of her.
 "Broccoli" : 89
 "Tomato" : 23
 "Snow peas" : 60
-"Kale" : 18
+"Kale" : 120
 ```
