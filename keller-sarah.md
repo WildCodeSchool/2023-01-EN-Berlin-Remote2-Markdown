@@ -1,4 +1,6 @@
-# Hi, I'm Sarah 🤓 ! And this is a super short profile on me.
+# Sarah
+
+## Hi, I'm Sarah 🤓 ! And this is a super short profile on me.
 
 Being German/Egyptian, my first name is pronounced the Arabic way: [Click here for a sample](https://github.com/WildCodeSchool/2023-01-EN-Berlin-Remote2-Markdown/blob/main/assets/keller-sarah.m4a?raw=true)
 
