@@ -14,7 +14,7 @@ Here is how my name sounds in my mother tounge:[Click here to download the recor
 
 Italicized text is the <em>cat's meow</em>.
 
-
+**Journey Diagram**
 ```mermaid
 journey
     title My typical day(before the course)
