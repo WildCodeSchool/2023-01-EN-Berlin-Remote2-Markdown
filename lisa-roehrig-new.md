@@ -1,4 +1,4 @@
-# Lisa Bold
+# Lisa Röhrig
 
 ## Welcome to my profile!
 
@@ -16,7 +16,7 @@ This is Elli on holiday!
 ### My favorite places I have traveled to are:
 1. Thailand
 - Krabi
-- Koh Lanta
+- __Koh Lanta__
 3. New Zealand
 - Malborough Sounds
 - Cloudy Bay Winery
