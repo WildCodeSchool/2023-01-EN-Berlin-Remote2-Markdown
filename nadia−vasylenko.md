@@ -1,8 +1,8 @@
-# Nadiya
+# **Nadiya**
 
 ## Small Intro
 
-My name is Nadia Vasylenko.  
+_My name is Nadia Vasylenko._  
 I was born in _Ukraine_. 
 
 I live in **Germany** for almost a year.  
