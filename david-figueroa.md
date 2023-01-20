@@ -20,7 +20,9 @@ This is how you pronounce my name: [Listen here](https://github.com/WildCodeScho
 
 ---
 
-My favorite food is: _add icons for every food_
+# add funny animation
+
+My favorite food is:
 
 1. Bibimbap
 2. Tacos
