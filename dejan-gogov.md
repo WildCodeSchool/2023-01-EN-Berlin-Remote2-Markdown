@@ -19,7 +19,7 @@
 
      * *Web Development*[^2]
 
-*PLEASE ADD A FUNNY GIF HERE*
+*PLEASE ADD 2 FUNNY GIF HERE*
 
 
 ### Discover are you hungry
