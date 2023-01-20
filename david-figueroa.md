@@ -2,9 +2,9 @@
 
 ## Change it
 
-My name is *David Figueroa*.  
+My name is _David Figueroa_.
 
-*This* is me ↓
+_This_ is me ↓
 
 ![df](/assets/david-figueroa.png)
 
@@ -12,7 +12,7 @@ But more **importantly** this is my dog ↓
 
 ![dfdog](/assets/david-figueroa-dog.JPG)
 
-Her name is *Nosh*. She probably will jump into the videochat sometimes.  
+Her name is _Nosh_. She probably will jump into the videochat sometimes.
 
 ---
 
@@ -20,14 +20,15 @@ This is how you pronounce my name: [Listen here](https://github.com/WildCodeScho
 
 ---
 
-My favorite food is:  
+My favorite food is: _add icons for every food_
+
 1. Bibimbap
 2. Tacos
 3. Ceviche
 
 ---
-Sometimes i do a ketogenic diet. The goal is to eat 5% or less carbohydrates.  
 
+Sometimes i do a ketogenic diet. The goal is to eat 5% or less carbohydrates.
 
 ```mermaid
 pie title Keto Macro Percentages
@@ -35,21 +36,24 @@ pie title Keto Macro Percentages
     "Fat" : 70
     "Carbs" : 5
 ```
+
 ---
 
-Like a very wise man once said:  
+Like a very wise man once said:
+
 > Lets get schwifty
-> 
+
 ---
+
 ## This is how my typical week looks like:
 
-| mon | tue | wed | thu | fri | sat | sun |
-| --- | --- | --- | --- | --- | --- | --- |
+| mon     | tue     | wed     | thu     | fri     | sat     | sun     |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | hustlin | hustlin | hustlin | hustlin | hustlin | hustlin | hustlin |
 
 ---
 
-## This is how i want my future to look like:  
+## This is how i want my future to look like:
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MY FUTURE'}} }%%
@@ -64,14 +68,14 @@ Like a very wise man once said:
         commit id:"Get 3 Goats"
         commit id:"Get A Housepig"
 ```
+
 ---
 
-Thank you for reading. Before you leave please let me know your opinion:  
+Thank you for reading. Before you leave please let me know your opinion:
 
-This was:  
+This was:
+
 - [x] Silly
 - [ ] Great
 
-
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
