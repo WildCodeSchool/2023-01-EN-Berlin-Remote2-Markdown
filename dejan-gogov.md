@@ -1,4 +1,4 @@
-# Dejan 
+# Dejan
 
 ## About
 
@@ -6,24 +6,33 @@
 
 # Test
 
-- [x] FirstName: *Dejan*[^1]
-- [x] LastName: *Gogov*
-- [x] Counry: *Macedonia*
-- [x] Age: *31*
+- [x] FirstName: _Dejan_[^1]
+- [x] LastName: _Gogov_
+- [x] Counry: _Macedonia_
+- [x] Age: _31_
 - [x] Hoby: Playing Guitar
 - [x] Bachelor's degree
-     * *Agricultural Engineering*
 
+  - _Agricultural Engineering_
 
 - [x] Current Learning:
 
-     * *Web Development*[^2]
 
-*PLEASE ADD A FUNNY GIF HERE*
 
+
+- # _Web Development_[^2]
+       * *Web Development*[^2]
+
+HELLO AGAIN
+
+
+
+
+
+blablabla
 
 ### Discover are you hungry
- 
+
 ```mermaid
 
 
@@ -35,26 +44,20 @@ flowchart TB
     H([YES])
      J([no you don't])--- I([oh right])
      M(((Cake)))
-     
+
     A---D--->F---H--->J
-     
+
      C---->M
      G---->M
      I---->M
-    
-    
+
+
 
 
 
 
 
 ```
-     
-
-
-
-
 
 [^1]: [click here to find out how to pronounce my name in my native language](https://github.com/WildCodeSchool/2023-01-EN-Berlin-Remote2-Markdown/blob/main/assets/name.mp3?raw=true)
 [^2]: Full-Stack Development , Mentor: @[OrwaDiraneyya](https://github.com/diraneyya)
-
