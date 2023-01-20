@@ -17,7 +17,14 @@
 
 - [x] Current Learning:
 
+<<<<<<< HEAD
   - _Web Development_[^2]
+=======
+     * *Web Development*[^2]
+
+
+HELLO AGAIN
+>>>>>>> fc468039e5d9db4c023f1b92ceb277877dfc0b2a
 
 blablabla
 
