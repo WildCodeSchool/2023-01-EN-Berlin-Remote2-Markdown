@@ -7,10 +7,10 @@
 Being German/Egyptian, my first name is pronounced the Arabic way: [Click here for a sample](https://github.com/WildCodeSchool/2023-01-EN-Berlin-Remote2-Markdown/blob/main/assets/keller-sarah.m4a?raw=true)
 
 ## ***Things I like***:
-1. Dogs (animals in general) ::dog::
+1. Dogs (animals in general) :dog:
 2. Laughs :laughing:
-3. Old buildings
-4. Beaches
+3. Old buildings :house_with_garden:
+4. Beaches 🏖️
 
 ## ***~~Things I dislike:~~***
 1. Fresh coriander[^1]
