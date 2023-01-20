@@ -1,4 +1,4 @@
-# Lisa
+# Lisa Bold
 
 ## Welcome to my profile!
 
