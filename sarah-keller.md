@@ -1,14 +1,14 @@
 # Sarah
 
-## Supercalifragilisticexpialidocious ♫
+## *Supercalifragilisticexpialidocious*♫
 
 ## Hi, I'm Sarah 🤓 ! And this is a super short profile on me.
 
 Being German/Egyptian, my first name is pronounced the Arabic way: [Click here for a sample](https://github.com/WildCodeSchool/2023-01-EN-Berlin-Remote2-Markdown/blob/main/assets/keller-sarah.m4a?raw=true)
 
 ## ***Things I like***:
-1. Dogs (animals in general)
-2. Laughs
+1. Dogs (animals in general) ::dog::
+2. Laughs :laughing:
 3. Old buildings
 4. Beaches
 
