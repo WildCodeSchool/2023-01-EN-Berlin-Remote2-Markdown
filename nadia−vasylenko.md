@@ -2,7 +2,7 @@
 
 ## Small Intro
 
-My name is Nadia Vasylenko.  
+*My name is Nadia Vasylenko.*  
 I was born in _Ukraine_. 
 
 I live in **Germany** for almost a year.  

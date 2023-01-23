@@ -14,7 +14,7 @@ My name is Yevhenii. I am 29. I was born in Ukraine.
 - Recently, I have started the prepation to pass my fitness trainer and sports nutritionist certification exam.
 - Currently, I study at a coding school. [Here](https://www.wildcodeschool.com/de-DE "Wold Code School Name") you can visit their website.
 
-## My hobbies and pets
+*## My hobbies and pets*
 
 When I have free time, I like to read, listen to music, do fitness exercises, and learn something new. I also like taking pictures with a camera.  
 I also have a cat whose name is Matilda. Here you can see the picture of her.
